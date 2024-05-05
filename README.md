@@ -26,7 +26,7 @@ Feel free to connect with me on [LinkedIn](#) or send me an email at `your-email
 ## 📂 My Projects
 Please check out my repositories below to see what I'm working on. I'm always open to feedback and collaborations.
 ## 📫 How to Reach Me
-[LinkedIn](https://www.linkedin.com/in/ 謝-維澤-0a92921ba)
+[LinkedIn](www.linkedin.com/in/謝-維澤-0a92921ba)
 [Gmail](xie8610@gmail.com)
 
 Thank you for visiting my profile! I'm excited to be a part of the GitHub community and look forward to contributing to exciting projects.
