@@ -8,11 +8,13 @@ I'm deeply immersed in Java backend development, enhancing my skills in building
 I am actively learning about Spring Framework, microservices architectures, and cloud services integration.
 
 ## 🛠️ Skills
-- **Programming Languages**: Java (Spring Framework), Python
-- **Backend Technologies**: RESTful API development, Microservices, Spring Boot
-- **Database Management**: SQL Server, PostgreSQL
-- **Tools & Technologies**: Git, GitHub, Docker, Jenkins
-- **Engineering Principles**: OOP, Design Patterns, System Architecture
+- Programming Languages**: Java (Spring Framework), Python
+- Backend Technologies**: RESTful API development, Microservices, Spring Boot
+- Frontend Technologies**: Vue.js, JavaScript
+- Database Management**: SQL Server, PostgreSQL
+- Tools & Technologies**: Git, GitHub, Docker, Jenkins
+- Engineering Principles**: OOP, Design Patterns, System Architecture
+
 
 ## 📚 Continuous Learning
 Committed to lifelong learning, I regularly engage in professional workshops and online courses to enhance my backend development skills.
