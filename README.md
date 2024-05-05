@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]!
+# Hello, I'm XIE-WE-ZE!
 
 ## 🎓 About Me
 I graduated from National Taiwan Ocean University, majoring in Communication and Navigation Engineering (2019-2023). My education focused on the complexities of communication technologies and navigation systems, equipping me with a robust foundation to tackle the challenges in these fields.
